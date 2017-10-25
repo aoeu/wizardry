@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="win95bg">#6aa9a9</color>
+<color name="macOS">#47464c</color>
+<color name="ubuntu">#591c59</color>
+<color name="ios">#ffffff</color>
+<color name="android">#0097a8</color>
+<color name="kde">#05177b</color>
+<color name="plan9">#777777</color>
+</resources>

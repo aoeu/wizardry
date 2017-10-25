@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:_="http://schemas.android.com/apk/res/android">
+<alpha
+_:fromAlpha="1.0"
+_:toAlpha="0.0"
+_:fillAfter="true"
+_:duration="3000"
+/>
+</set>

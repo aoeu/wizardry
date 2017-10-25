@@ -1,0 +1,16 @@
+<LinearLayout
+xmlns:_="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+_:layout_width="match_parent"
+_:layout_height="match_parent"
+tools:context="o.x.wizardry.Main"
+_:orientation="vertical"
+>
+
+<ImageView
+_:layout_width="match_parent"
+_:layout_height="match_parent"
+_:id="@+id/screen"
+/>
+
+</LinearLayout>
